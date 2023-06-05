@@ -1,8 +1,8 @@
-package stanislav.danylenko.repository;
+package stanislav.danylenko.jdbc.repository;
 
-import stanislav.danylenko.config.HikariCPDataSource;
-import stanislav.danylenko.exceptions.DbException;
-import stanislav.danylenko.model.Person;
+import stanislav.danylenko.jdbc.config.HikariCPDataSource;
+import stanislav.danylenko.jdbc.exceptions.DbException;
+import stanislav.danylenko.jdbc.model.Person;
 
 import java.sql.*;
 import java.util.ArrayList;

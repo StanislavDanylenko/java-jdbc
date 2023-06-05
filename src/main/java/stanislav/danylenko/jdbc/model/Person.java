@@ -1,4 +1,4 @@
-package stanislav.danylenko.model;
+package stanislav.danylenko.jdbc.model;
 
 import java.time.LocalDateTime;
 

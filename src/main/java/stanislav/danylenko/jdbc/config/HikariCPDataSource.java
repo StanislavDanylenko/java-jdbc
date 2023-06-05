@@ -1,4 +1,4 @@
-package stanislav.danylenko.config;
+package stanislav.danylenko.jdbc.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;

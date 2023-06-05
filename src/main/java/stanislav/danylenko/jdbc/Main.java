@@ -1,7 +1,7 @@
-package stanislav.danylenko;
+package stanislav.danylenko.jdbc;
 
-import stanislav.danylenko.model.Person;
-import stanislav.danylenko.repository.PersonRepository;
+import stanislav.danylenko.jdbc.model.Person;
+import stanislav.danylenko.jdbc.repository.PersonRepository;
 
 import java.time.LocalDateTime;
 import java.util.List;

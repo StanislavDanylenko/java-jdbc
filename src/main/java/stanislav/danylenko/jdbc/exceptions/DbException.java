@@ -1,4 +1,4 @@
-package stanislav.danylenko.exceptions;
+package stanislav.danylenko.jdbc.exceptions;
 
 public class DbException extends RuntimeException {
 
